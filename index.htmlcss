@@ -1,0 +1,27 @@
+<style>
+     #div1{
+         background-color: wheat;
+         width: 33.3%;
+         float: right;
+         
+     }
+     #div2{
+         background-color: blue;
+         width: 33.3%;
+         float: left;
+     }
+     #div3{
+         background-color: yellow;
+         width: 33.3%;
+         margin: 0 auto;
+     }
+ </style>
+</head>
+<body>
+   
+<!-- header section starts     -->
+
+<div id="div1"> div right</div>
+<div id="div2"> div left</div>
+<div id="div3"> div middle</div>
+</body>
